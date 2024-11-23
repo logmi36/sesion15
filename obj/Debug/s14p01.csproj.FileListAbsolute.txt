@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2015\Projects\s14p01\s14p01\obj\Debug\s14p01.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\s14p01\s14p01\bin\Debug\s14p01.exe
+c:\users\pc\documents\visual studio 2015\Projects\s14p01\s14p01\bin\Debug\s14p01.pdb
+c:\users\pc\documents\visual studio 2015\Projects\s14p01\s14p01\obj\Debug\s14p01.exe
+c:\users\pc\documents\visual studio 2015\Projects\s14p01\s14p01\obj\Debug\s14p01.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 14\s14p01\s14p01\obj\Debug\s14p01.exe
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 14\s14p01\s14p01\obj\Debug\s14p01.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 14\s14p01\s14p01\bin\Debug\s14p01.exe
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 14\s14p01\s14p01\bin\Debug\s14p01.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 14\s14p01\s14p01\obj\Debug\s14p01.csprojResolveAssemblyReference.cache
